@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "Gowri",
+      "lastName": "Bharadwaj BN",
+      "email": "bngowri99@gmail.com",
+      "dob": "2023-04-21T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "Google",
+      "experience": "5",
+      "package": "30",
+      "id": 1
+    },
+    {
+      "firstName": "Santosh",
+      "lastName": "Agarwal",
+      "email": "san@gmail.com",
+      "dob": "2023-04-21T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "BEPL-LTD",
+      "experience": "15",
+      "package": "80",
+      "id": 2
+    }
+  ]
+}
